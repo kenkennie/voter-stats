@@ -1,0 +1,601 @@
+full_name,gender,age,national_id,county,sub_county,constituency,ward,polling_station,registration_year,occupation,voter_status
+Moraa Kariuki,Female,45,17471301,Kiambu,Ruiru,Ruiru,Gatongora,Gatongora Primary School,2022,Engineer,Active
+Nyaguthii Kiptoo,Female,20,11678443,Kiambu,Thika Town,Thika Town,Gatuanyaga,Gatuanyaga Primary School,2022,Farmer,Under Review
+Mumbi Mutua,Female,43,28456905,Nairobi,Westlands,Westlands,Mountain View,Mountain View Primary School,2027,Casual Worker,Active
+Muriithi Omondi,Male,65,26434414,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2017,Casual Worker,Inactive
+Kimani Mwenda,Male,66,24979419,Mombasa,Mvita,Mvita,Tononoka,Tononoka Primary School,2017,Clerk,Active
+Kariuki Mwenda,Male,72,19364231,Mombasa,Mvita,Mvita,Tononoka,Tononoka Primary School,2022,Teacher,Active
+Wanjiku Kiptoo,Female,64,16878334,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2022,Tailor,Active
+Maina Ochieng,Male,73,46598928,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2027,Casual Worker,Active
+Omondi Barasa,Male,66,15834366,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2017,Accountant,Active
+Kinyanjui Cheruiyot,Male,53,49627281,Meru,Igembe South,Igembe South,Athiru Gaiti,Athiru Gaiti Primary School,2027,Clerk,Active
+Auma Njoroge,Male,48,38314694,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2022,Police Officer,Active
+Akinyi Njoroge,Female,49,12132899,Kiambu,Thika Town,Thika Town,Gatuanyaga,Gatuanyaga Primary School,2017,Casual Worker,Active
+Chebet Thuo,Female,57,11999657,Meru,Igembe South,Igembe South,Athiru Gaiti,Athiru Gaiti Primary School,2017,Teacher,Active
+Wambui Ochieng,Female,53,16287781,Nakuru,Nakuru Town East,Nakuru Town East,Menengai,Menengai Primary School,2022,Mechanic,Active
+Nyambura Koech,Female,40,24672546,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2017,Clerk,Active
+Fatuma Kariuki,Female,31,25613608,Kiambu,Thika Town,Thika Town,Gatuanyaga,Gatuanyaga Primary School,2027,Casual Worker,Active
+Jepchirchir Thuo,Female,79,43913819,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2013,Teacher,Active
+Mwangi Ngugi,Male,49,11780798,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2013,Mechanic,Active
+Rashid Bosibori,Male,72,47664518,Eldoret,Kapseret,Kapseret,Langas,Langas Primary School,2017,Casual Worker,Active
+Odhiambo Cheruiyot,Male,48,23343768,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2017,Teacher,Active
+Jepchirchir Atieno,Female,54,46570403,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2022,Clerk,Active
+Ngugi Salim,Male,46,38153498,Nakuru,Rongai,Rongai,Soin,Soin Primary School,2022,Shopkeeper,Active
+Njoroge Kariuki,Male,54,24793519,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2022,Accountant,Active
+Nyaguthii Jelimo,Female,23,40145908,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2027,Clerk,Active
+Akinyi Njoroge,Female,23,49544950,Nakuru,Nakuru Town East,Nakuru Town East,Flamingo,Flamingo Primary School,2022,Trader,Active
+Nyaguthii Ochieng,Female,78,28669062,Machakos,Mavoko,Mavoko,Syokimau,Syokimau Primary School,2017,Engineer,Active
+Kimani Thuo,Male,69,10436124,Machakos,Mavoko,Mavoko,Athi River,Athi River Primary School,2027,Self-employed,Active
+Hassan Salim,Male,83,20714555,Meru,Imenti North,Imenti North,Nyaki West,Nyaki West Primary School,2027,Farmer,Active
+Mwanaidi Kariuki,Female,81,38361172,Nakuru,Rongai,Rongai,Solai,Solai Primary School,2022,Mechanic,Active
+Njeri Njenga,Female,21,32833825,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2027,Casual Worker,Active
+Barasa Otieno,Male,32,28647630,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2022,Teacher,Active
+Kinyanjui Njenga,Male,78,20434052,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2017,Self-employed,Active
+Gacheru Waweru,Male,61,24449461,Mombasa,Likoni,Likoni,Likoni,Likoni Primary School,2027,Self-employed,Active
+Kipkoech Mwenda,Male,79,32588477,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2017,Self-employed,Active
+Rotich Gitahi,Female,67,16859215,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2017,Mechanic,Active
+Jelimo Gacheru,Female,22,16224068,Machakos,Machakos Town,Machakos Town,Milimani,Milimani Primary School,2013,Casual Worker,Active
+Gitahi Kimani,Male,70,35496489,Eldoret,Turbo,Turbo,Eldoret East,Eldoret East Primary School,2027,Trader,Active
+Amina Ruto,Female,66,16490526,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2027,Police Officer,Active
+Fatuma Mutua,Female,29,34090698,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2022,Teacher,Active
+Gitahi Auma,Male,59,33082477,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2022,Driver,Active
+Wairimu Omar,Female,40,27751694,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2013,Tailor,Active
+Kinyanjui Ngugi,Male,76,12915909,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2017,Farmer,Active
+Wangari Auma,Female,56,40831481,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2022,Student,Active
+Muthoni Koech,Female,48,45985658,Machakos,Mavoko,Mavoko,Syokimau,Syokimau Primary School,2017,Engineer,Active
+Akinyi Ruto,Female,24,18376941,Kiambu,Thika Town,Thika Town,Ngoliba,Ngoliba Primary School,2027,Clerk,Active
+Mumbi Muriithi,Female,50,35403012,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2022,Clerk,Active
+Kariuki Odhiambo,Male,64,15288191,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2022,Teacher,Active
+Mwanaidi Ochieng,Female,64,47046819,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2022,Shopkeeper,Active
+Koech Atieno,Male,77,29674861,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2027,Trader,Active
+Hamisi Kinyanjui,Male,51,34268915,Mombasa,Likoni,Likoni,Mtongwe,Mtongwe Primary School,2022,Accountant,Active
+Safia Kinyanjui,Female,21,48745446,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2022,Self-employed,Active
+Njoroge Adhiambo,Male,35,22904268,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2013,Farmer,Active
+Wambui Kimani,Female,76,14667767,Nakuru,Nakuru Town East,Nakuru Town East,Menengai,Menengai Primary School,2017,Clerk,Active
+Wairimu Kiptoo,Female,70,13075222,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2027,Driver,Active
+Kwamboka Bosibori,Female,30,25293994,Eldoret,Turbo,Turbo,Lemook,Lemook Primary School,2027,Engineer,Active
+Zawadi Ruto,Female,76,29420497,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2013,Nurse,Active
+Mwangi Thuo,Male,44,15354748,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2013,Mechanic,Active
+Ngugi Thuo,Male,36,25622331,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2027,Self-employed,Active
+Waweru Mwangi,Male,48,16778091,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2022,Farmer,Active
+Mutua Kiptoo,Male,75,35509839,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2022,Self-employed,Active
+Mumbi Odhiambo,Female,25,28654492,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2027,Tailor,Active
+Kinyanjui Bosibori,Male,36,40427850,Mombasa,Mvita,Mvita,Tononoka,Tononoka Primary School,2013,Driver,Active
+Safia Njenga,Female,32,34483473,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2027,Police Officer,Active
+Maina Bosibori,Male,76,20915531,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2017,Clerk,Active
+Halima Salim,Female,26,34842424,Meru,Imenti North,Imenti North,Nyaki West,Nyaki West Primary School,2013,Teacher,Active
+Salim Waweru,Male,60,33841813,Nairobi,Dagoretti North,Dagoretti North,Kabiro,Kabiro Primary School,2022,Student,Active
+Zawadi Njenga,Female,82,24059778,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2017,Police Officer,Active
+Omar Kinyanjui,Male,46,27916578,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2027,Tailor,Active
+Cheruiyot Mwangi,Male,61,14791741,Kisumu,Kisumu East,Kisumu East,Manyatta B,Manyatta B Primary School,2017,Trader,Active
+Atieno Ngugi,Female,45,21484920,Nairobi,Westlands,Westlands,Kitisuru,Kitisuru Primary School,2017,Accountant,Active
+Muthoni Gitahi,Female,38,45845520,Mombasa,Mvita,Mvita,Tudor,Tudor Primary School,2022,Farmer,Active
+Jepchirchir Moraa,Female,52,26428983,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2017,Self-employed,Active
+Wambui Njenga,Female,46,20965755,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2017,Casual Worker,Active
+Barasa Cheruiyot,Male,59,41021757,Kisumu,Kisumu East,Kisumu East,Manyatta B,Manyatta B Primary School,2013,Accountant,Active
+Mutua Gacheru,Male,68,35464823,Nakuru,Rongai,Rongai,Soin,Soin Primary School,2027,Farmer,Active
+Atieno Gitahi,Female,55,28115891,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2013,Farmer,Inactive
+Thuo Kinyanjui,Male,49,47376264,Mombasa,Likoni,Likoni,Mtongwe,Mtongwe Primary School,2022,Student,Active
+Muthoni Thuo,Female,27,24738124,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2022,Teacher,Active
+Omar Muriithi,Male,36,31762245,Kisumu,Kisumu Central,Kisumu Central,Shaurimoyo,Shaurimoyo Primary School,2017,Trader,Active
+Kiptoo Akinyi,Male,59,13753932,Eldoret,Kapseret,Kapseret,Langas,Langas Primary School,2027,Police Officer,Active
+Atieno Atieno,Female,25,25371155,Eldoret,Kapseret,Kapseret,Kipkenyo,Kipkenyo Primary School,2017,Teacher,Active
+Fatuma Kariuki,Female,29,12154210,Meru,Igembe South,Igembe South,Maua,Maua Primary School,2022,Self-employed,Active
+Gitahi Koech,Male,37,31169695,Meru,Igembe South,Igembe South,Athiru Rujiine,Athiru Rujiine Primary School,2027,Accountant,Active
+Adhiambo Jelimo,Female,74,36921713,Kisumu,Kisumu Central,Kisumu Central,Market Milimani,Market Milimani Primary School,2027,Self-employed,Active
+Salim Kinyanjui,Male,61,27967786,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2022,Farmer,Active
+Atieno Thuo,Female,50,14441842,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2022,Police Officer,Inactive
+Ahmed Njoroge,Male,68,24158818,Kisumu,Kisumu East,Kisumu East,Manyatta B,Manyatta B Primary School,2013,Clerk,Inactive
+Safia Thuo,Female,83,48062808,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2017,Engineer,Active
+Ahmed Akinyi,Male,37,31117675,Nakuru,Nakuru Town East,Nakuru Town East,Kivumbini,Kivumbini Primary School,2013,Tailor,Active
+Ahmed Waweru,Male,41,24269125,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2027,Mechanic,Active
+Gitahi Odhiambo,Male,74,43502842,Machakos,Mavoko,Mavoko,Mlolongo,Mlolongo Primary School,2022,Mechanic,Active
+Mumbi Omar,Female,65,36550407,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2022,Casual Worker,Under Review
+Wangari Gacheru,Female,35,40793026,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2027,Farmer,Active
+Nyambura Omondi,Female,52,19587950,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2022,Self-employed,Active
+Adhiambo Hassan,Female,71,27775807,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2013,Self-employed,Active
+Adhiambo Kinyanjui,Female,30,19370432,Nakuru,Nakuru Town East,Nakuru Town East,Flamingo,Flamingo Primary School,2027,Police Officer,Active
+Mutua Odhiambo,Male,78,26550891,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2022,Farmer,Active
+Koech Cheruiyot,Male,54,47672777,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2017,Teacher,Active
+Rotich Mutua,Female,20,46170153,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2022,Casual Worker,Active
+Kipkoech Moraa,Male,48,27632290,Nairobi,Dagoretti North,Dagoretti North,Ruthimitu,Ruthimitu Primary School,2022,Trader,Active
+Salim Mutua,Male,23,49230901,Nairobi,Embakasi East,Embakasi East,Lower Savanna,Lower Savanna Primary School,2022,Engineer,Active
+Omar Mutua,Male,60,38751707,Meru,Imenti North,Imenti North,Municipality,Municipality Primary School,2013,Engineer,Active
+Thuo Atieno,Male,76,49160231,Kisumu,Kisumu Central,Kisumu Central,Shaurimoyo,Shaurimoyo Primary School,2013,Nurse,Active
+Otieno Gitahi,Male,78,36803314,Kiambu,Ruiru,Ruiru,Kahawa Wendani,Kahawa Wendani Primary School,2017,Mechanic,Active
+Zuhura Kariuki,Female,65,34293170,Meru,Igembe South,Igembe South,Maua,Maua Primary School,2022,Student,Active
+Amina Ochieng,Female,84,24718366,Eldoret,Kapseret,Kapseret,Kipkenyo,Kipkenyo Primary School,2017,Teacher,Active
+Maina Ochieng,Male,28,19283286,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2017,Driver,Active
+Kemunto Bosibori,Female,63,44193730,Meru,Igembe South,Igembe South,Maua,Maua Primary School,2022,Student,Active
+Njoroge Ruto,Male,36,43119287,Meru,Imenti North,Imenti North,Municipality,Municipality Primary School,2027,Police Officer,Active
+Mutua Mutua,Male,67,16100827,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2027,Farmer,Active
+Khadija Kinyanjui,Female,35,13161926,Eldoret,Turbo,Turbo,Ngenyilel,Ngenyilel Primary School,2022,Student,Active
+Gathoni Omondi,Female,81,17358428,Nairobi,Dagoretti North,Dagoretti North,Uthiru,Uthiru Primary School,2022,Shopkeeper,Active
+Waceera Bosibori,Female,43,20257007,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2013,Tailor,Active
+Gitahi Njoroge,Male,55,20736210,Meru,Igembe South,Igembe South,Maua,Maua Primary School,2027,Tailor,Active
+Salim Jelimo,Male,35,38330675,Nakuru,Nakuru Town East,Nakuru Town East,Kivumbini,Kivumbini Primary School,2017,Accountant,Active
+Rotich Waweru,Female,68,14263272,Mombasa,Mvita,Mvita,Tononoka,Tononoka Primary School,2027,Clerk,Active
+Mwanaidi Mutua,Female,75,35821297,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2022,Self-employed,Active
+Mutua Moraa,Male,37,35610036,Nairobi,Westlands,Westlands,Kitisuru,Kitisuru Primary School,2017,Trader,Active
+Omar Njenga,Male,53,49989395,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2013,Driver,Active
+Gacheru Auma,Male,61,41410296,Kisumu,Kisumu Central,Kisumu Central,Kondele,Kondele Primary School,2027,Casual Worker,Active
+Omondi Odhiambo,Male,71,45508262,Kiambu,Thika Town,Thika Town,Ngoliba,Ngoliba Primary School,2022,Farmer,Active
+Muthoni Atieno,Female,76,26872115,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2013,Farmer,Active
+Jelimo Adhiambo,Female,36,47126361,Nakuru,Rongai,Rongai,Solai,Solai Primary School,2017,Clerk,Active
+Rehema Waweru,Female,48,10770478,Meru,Imenti North,Imenti North,Ntima West,Ntima West Primary School,2022,Driver,Active
+Kariuki Kariuki,Male,71,17687437,Kiambu,Ruiru,Ruiru,Kahawa Wendani,Kahawa Wendani Primary School,2017,Tailor,Active
+Halima Koech,Female,77,46035468,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2022,Driver,Active
+Hamisi Jelimo,Male,63,27906335,Eldoret,Turbo,Turbo,Eldoret East,Eldoret East Primary School,2013,Driver,Active
+Wangari Otieno,Female,51,32828789,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2022,Mechanic,Active
+Hamisi Kariuki,Male,54,17486139,Nakuru,Rongai,Rongai,Solai,Solai Primary School,2013,Self-employed,Active
+Wambui Waweru,Female,61,29696460,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2022,Engineer,Active
+Gacheru Ruto,Male,35,39176602,Nairobi,Westlands,Westlands,Kangemi,Kangemi Primary School,2022,Mechanic,Active
+Wairimu Jelimo,Female,58,20613787,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2017,Casual Worker,Active
+Amina Jelimo,Female,20,40448882,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2017,Police Officer,Active
+Muthoni Mwangi,Female,47,10217789,Eldoret,Kapseret,Kapseret,Langas,Langas Primary School,2022,Casual Worker,Active
+Wairimu Omar,Female,42,27675739,Nairobi,Dagoretti North,Dagoretti North,Riruta,Riruta Primary School,2013,Engineer,Active
+Kwamboka Kiptoo,Female,84,43593765,Eldoret,Turbo,Turbo,Eldoret East,Eldoret East Primary School,2017,Engineer,Under Review
+Safia Gitahi,Female,61,21989124,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2022,Police Officer,Active
+Jelimo Koech,Female,56,44069940,Nakuru,Rongai,Rongai,Solai,Solai Primary School,2017,Driver,Active
+Kinyanjui Gitahi,Male,53,17141109,Eldoret,Kapseret,Kapseret,Langas,Langas Primary School,2017,Casual Worker,Active
+Rehema Muriithi,Female,54,30028290,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2027,Teacher,Active
+Waceera Atieno,Female,52,44068679,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2027,Clerk,Active
+Njenga Omar,Male,46,23348698,Nairobi,Dagoretti North,Dagoretti North,Kabiro,Kabiro Primary School,2022,Farmer,Active
+Jelimo Kimani,Female,38,20256869,Kisumu,Kisumu Central,Kisumu Central,Kondele,Kondele Primary School,2022,Shopkeeper,Active
+Jelimo Koech,Female,25,35092933,Kiambu,Ruiru,Ruiru,Gatongora,Gatongora Primary School,2027,Teacher,Active
+Otieno Ochieng,Male,68,20841372,Machakos,Machakos Town,Machakos Town,Mutituni,Mutituni Primary School,2022,Trader,Inactive
+Fatuma Otieno,Female,54,46197113,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2022,Police Officer,Active
+Njeri Jelimo,Female,32,45591432,Eldoret,Kapseret,Kapseret,Megun,Megun Primary School,2017,Clerk,Active
+Moraa Otieno,Female,42,10038379,Meru,Igembe South,Igembe South,Athiru Rujiine,Athiru Rujiine Primary School,2017,Tailor,Active
+Chebet Jelimo,Female,30,31753744,Meru,Imenti North,Imenti North,Nyaki West,Nyaki West Primary School,2017,Trader,Active
+Kamau Salim,Male,52,42789774,Machakos,Machakos Town,Machakos Town,Milimani,Milimani Primary School,2027,Driver,Active
+Koech Kinyanjui,Male,77,11307062,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2017,Student,Active
+Wambui Njenga,Female,35,17507315,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2022,Accountant,Active
+Mwanaidi Atieno,Female,28,34359226,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2022,Self-employed,Active
+Waweru Kariuki,Male,59,30636923,Nakuru,Nakuru Town East,Nakuru Town East,Kivumbini,Kivumbini Primary School,2027,Accountant,Active
+Kinyanjui Njoroge,Male,34,26069372,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2022,Accountant,Active
+Muthoni Mwangi,Female,45,13887292,Machakos,Mavoko,Mavoko,Syokimau,Syokimau Primary School,2022,Farmer,Active
+Mwangi Mutua,Male,70,26164618,Eldoret,Turbo,Turbo,Lemook,Lemook Primary School,2017,Trader,Active
+Khadija Gacheru,Female,28,48074679,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2022,Police Officer,Active
+Omar Omondi,Male,34,15285296,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2022,Nurse,Active
+Barasa Adhiambo,Male,49,15748105,Machakos,Mavoko,Mavoko,Mlolongo,Mlolongo Primary School,2022,Trader,Active
+Otieno Kiptoo,Male,26,42614267,Nairobi,Westlands,Westlands,Mountain View,Mountain View Primary School,2013,Farmer,Active
+Njenga Odhiambo,Male,45,14644773,Machakos,Mavoko,Mavoko,Mlolongo,Mlolongo Primary School,2022,Mechanic,Active
+Mumbi Gitahi,Female,36,45749305,Meru,Imenti North,Imenti North,Ntima West,Ntima West Primary School,2027,Self-employed,Active
+Nyaguthii Kariuki,Female,81,18439645,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2013,Engineer,Inactive
+Halima Kiptoo,Female,66,18616205,Machakos,Machakos Town,Machakos Town,Mua,Mua Primary School,2017,Self-employed,Active
+Barasa Ngugi,Male,70,41895660,Eldoret,Turbo,Turbo,Ngenyilel,Ngenyilel Primary School,2027,Self-employed,Active
+Gathoni Salim,Female,75,46896694,Nakuru,Rongai,Rongai,Soin,Soin Primary School,2027,Teacher,Active
+Mwangi Barasa,Male,42,21081482,Machakos,Machakos Town,Machakos Town,Mutituni,Mutituni Primary School,2027,Casual Worker,Active
+Muriithi Cheruiyot,Male,45,27787649,Meru,Igembe South,Igembe South,Maua,Maua Primary School,2027,Clerk,Active
+Gathoni Cheruiyot,Female,59,45411588,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2022,Student,Active
+Muthoni Salim,Female,30,38396306,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2027,Clerk,Active
+Kwamboka Kinyanjui,Female,46,24213536,Meru,Igembe South,Igembe South,Maua,Maua Primary School,2022,Farmer,Active
+Wangari Ngugi,Female,66,46191547,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2022,Nurse,Active
+Waceera Akinyi,Female,63,23499019,Eldoret,Kapseret,Kapseret,Megun,Megun Primary School,2017,Clerk,Active
+Mwangi Odhiambo,Male,70,30918926,Mombasa,Mvita,Mvita,Mji wa Kale,Mji wa Kale Primary School,2013,Police Officer,Active
+Kamau Cheruiyot,Male,79,36775919,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2022,Farmer,Active
+Wanjiku Mwangi,Female,82,35059825,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2027,Police Officer,Active
+Kariuki Kimani,Male,85,39400398,Kisumu,Kisumu Central,Kisumu Central,Market Milimani,Market Milimani Primary School,2017,Engineer,Active
+Adhiambo Kinyanjui,Female,49,44733926,Machakos,Mavoko,Mavoko,Muthwani,Muthwani Primary School,2027,Nurse,Active
+Otieno Njoroge,Male,78,40298722,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2013,Farmer,Active
+Kinyanjui Moraa,Male,23,18120454,Meru,Imenti North,Imenti North,Nyaki East,Nyaki East Primary School,2017,Shopkeeper,Active
+Nyaguthii Odhiambo,Female,22,26636664,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2017,Tailor,Active
+Ochieng Ruto,Male,48,25079183,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2022,Tailor,Active
+Safia Waweru,Female,30,14296705,Mombasa,Likoni,Likoni,Mtongwe,Mtongwe Primary School,2022,Tailor,Active
+Halima Mwangi,Female,47,32688538,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2017,Student,Active
+Adhiambo Njenga,Female,52,11411585,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2017,Clerk,Active
+Rashid Gitahi,Male,18,49480729,Meru,Imenti North,Imenti North,Municipality,Municipality Primary School,2027,Accountant,Active
+Nyambura Waweru,Female,75,47173044,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2022,Self-employed,Active
+Omondi Muriithi,Male,19,25442738,Mombasa,Likoni,Likoni,Likoni,Likoni Primary School,2017,Student,Active
+Kimani Gacheru,Male,56,49489547,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2017,Trader,Active
+Nyaguthii Kiptoo,Female,64,24778538,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2017,Nurse,Active
+Bosibori Adhiambo,Female,18,10482569,Mombasa,Mvita,Mvita,Tononoka,Tononoka Primary School,2027,Engineer,Active
+Amina Bosibori,Female,35,14764265,Meru,Igembe South,Igembe South,Athiru Rujiine,Athiru Rujiine Primary School,2017,Casual Worker,Inactive
+Muriithi Gitahi,Male,55,13950951,Kisumu,Kisumu East,Kisumu East,Manyatta B,Manyatta B Primary School,2022,Police Officer,Active
+Hassan Gacheru,Male,32,25364023,Kiambu,Ruiru,Ruiru,Gatongora,Gatongora Primary School,2027,Nurse,Active
+Kipchoge Adhiambo,Male,26,14523159,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2027,Mechanic,Active
+Njeri Mwenda,Female,72,12108087,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2022,Teacher,Active
+Rehema Jelimo,Female,28,32174680,Machakos,Machakos Town,Machakos Town,Mua,Mua Primary School,2013,Nurse,Active
+Kemunto Odhiambo,Female,31,14755156,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2013,Driver,Active
+Gitahi Kinyanjui,Male,82,44504433,Machakos,Mavoko,Mavoko,Muthwani,Muthwani Primary School,2017,Farmer,Active
+Mwanaidi Njoroge,Female,57,25972220,Mombasa,Mvita,Mvita,Tononoka,Tononoka Primary School,2017,Mechanic,Active
+Zuhura Atieno,Female,58,28688292,Mombasa,Likoni,Likoni,Likoni,Likoni Primary School,2013,Farmer,Active
+Kipchoge Thuo,Male,84,42575615,Mombasa,Mvita,Mvita,Tudor,Tudor Primary School,2017,Trader,Active
+Rotich Hassan,Female,73,24377188,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2017,Clerk,Active
+Gitahi Moraa,Male,44,46187376,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2017,Clerk,Active
+Kariuki Ochieng,Male,76,18879297,Meru,Igembe South,Igembe South,Nyambene Hills,Nyambene Hills Primary School,2013,Police Officer,Active
+Safia Ruto,Female,76,48322053,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2022,Tailor,Active
+Adhiambo Waweru,Female,57,48668909,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2013,Engineer,Active
+Mwanaidi Waweru,Female,80,41720415,Machakos,Mavoko,Mavoko,Mlolongo,Mlolongo Primary School,2022,Clerk,Active
+Kimani Akinyi,Male,58,26307268,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2027,Casual Worker,Active
+Wanjiku Akinyi,Female,82,41740676,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2022,Student,Active
+Jepchirchir Akinyi,Female,21,37317331,Kisumu,Kisumu Central,Kisumu Central,Kondele,Kondele Primary School,2022,Nurse,Active
+Mumbi Njenga,Female,81,22778193,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2022,Teacher,Active
+Khadija Odhiambo,Female,31,16330097,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2022,Police Officer,Active
+Fatuma Bosibori,Female,74,16504916,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2027,Teacher,Active
+Odhiambo Muriithi,Male,35,38927355,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2022,Tailor,Active
+Omar Barasa,Male,55,33776507,Kisumu,Kisumu East,Kisumu East,Manyatta B,Manyatta B Primary School,2022,Tailor,Active
+Mutua Kiptoo,Male,34,38425880,Nairobi,Embakasi East,Embakasi East,Mihango,Mihango Primary School,2017,Clerk,Active
+Hamisi Akinyi,Male,66,37588606,Kisumu,Kisumu East,Kisumu East,Nyalenda A,Nyalenda A Primary School,2022,Police Officer,Active
+Hamisi Jelimo,Male,80,41341494,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2017,Farmer,Active
+Thuo Muriithi,Male,72,13635366,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2027,Accountant,Active
+Amina Waweru,Female,23,16604711,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2013,Mechanic,Active
+Waweru Auma,Male,72,14067647,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2017,Clerk,Active
+Kemunto Barasa,Female,28,37019456,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2017,Shopkeeper,Active
+Hamisi Mwenda,Male,30,32770212,Nakuru,Rongai,Rongai,Soin,Soin Primary School,2013,Accountant,Active
+Gitahi Otieno,Male,33,17332920,Nairobi,Dagoretti North,Dagoretti North,Ruthimitu,Ruthimitu Primary School,2027,Student,Active
+Atieno Hassan,Female,31,26687044,Machakos,Machakos Town,Machakos Town,Mutituni,Mutituni Primary School,2017,Shopkeeper,Active
+Njeri Ngugi,Female,39,22857392,Mombasa,Mvita,Mvita,Ganjoni,Ganjoni Primary School,2022,Clerk,Active
+Mwenda Bosibori,Male,35,22764703,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2022,Casual Worker,Active
+Chebet Gitahi,Female,28,45989527,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2017,Casual Worker,Active
+Akinyi Mwenda,Female,55,40105945,Nakuru,Nakuru Town East,Nakuru Town East,Menengai,Menengai Primary School,2022,Mechanic,Active
+Kinyanjui Gacheru,Male,27,19407474,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2022,Farmer,Under Review
+Njeri Gacheru,Female,40,38311997,Machakos,Mavoko,Mavoko,Muthwani,Muthwani Primary School,2022,Mechanic,Active
+Kamau Salim,Male,68,22313673,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2022,Police Officer,Active
+Chebet Ruto,Female,28,28692848,Mombasa,Mvita,Mvita,Tononoka,Tononoka Primary School,2017,Self-employed,Active
+Hassan Ruto,Male,48,41046444,Mombasa,Likoni,Likoni,Likoni,Likoni Primary School,2013,Teacher,Active
+Thuo Kariuki,Male,19,26764226,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2022,Clerk,Active
+Zuhura Salim,Female,52,15058994,Kisumu,Kisumu East,Kisumu East,Kolwa East,Kolwa East Primary School,2022,Teacher,Active
+Ahmed Moraa,Male,27,39738000,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2022,Self-employed,Active
+Kemunto Kinyanjui,Female,32,46931706,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2017,Self-employed,Active
+Njenga Odhiambo,Male,37,16570543,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2017,Tailor,Active
+Mumbi Gitahi,Female,52,13394925,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2027,Casual Worker,Active
+Kiptoo Hassan,Male,77,46278242,Nairobi,Embakasi East,Embakasi East,Utawala,Utawala Primary School,2027,Mechanic,Active
+Adhiambo Adhiambo,Female,55,10990382,Nairobi,Embakasi East,Embakasi East,Mihango,Mihango Primary School,2022,Driver,Active
+Thuo Kinyanjui,Male,49,16258758,Eldoret,Turbo,Turbo,Ngenyilel,Ngenyilel Primary School,2017,Shopkeeper,Active
+Omar Otieno,Male,57,25863159,Meru,Imenti North,Imenti North,Nyaki West,Nyaki West Primary School,2013,Self-employed,Under Review
+Chepkoech Kariuki,Female,23,21160949,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2027,Shopkeeper,Active
+Khadija Adhiambo,Female,35,37273985,Mombasa,Mvita,Mvita,Ganjoni,Ganjoni Primary School,2022,Student,Active
+Maina Waweru,Male,58,42590824,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2027,Student,Active
+Halima Bosibori,Female,43,42303416,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2013,Mechanic,Active
+Kariuki Auma,Male,70,24344338,Eldoret,Kapseret,Kapseret,Kipkenyo,Kipkenyo Primary School,2013,Engineer,Inactive
+Gitahi Mwenda,Male,29,36913358,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2017,Police Officer,Active
+Odhiambo Gitahi,Male,63,13934955,Kisumu,Kisumu Central,Kisumu Central,Market Milimani,Market Milimani Primary School,2017,Farmer,Active
+Moraa Mwangi,Female,49,21048610,Machakos,Mavoko,Mavoko,Muthwani,Muthwani Primary School,2013,Teacher,Active
+Waweru Otieno,Male,43,35432455,Nairobi,Westlands,Westlands,Mountain View,Mountain View Primary School,2027,Engineer,Active
+Koech Mutua,Male,74,10144644,Nairobi,Westlands,Westlands,Mountain View,Mountain View Primary School,2027,Teacher,Active
+Wambui Odhiambo,Female,73,36200760,Eldoret,Turbo,Turbo,Eldoret East,Eldoret East Primary School,2027,Student,Active
+Chebet Ochieng,Female,53,27797475,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2017,Shopkeeper,Active
+Kipkoech Akinyi,Male,29,40535094,Machakos,Mavoko,Mavoko,Syokimau,Syokimau Primary School,2017,Trader,Active
+Kipchoge Gacheru,Male,80,29142751,Meru,Igembe South,Igembe South,Athiru Rujiine,Athiru Rujiine Primary School,2017,Casual Worker,Active
+Nyaguthii Ochieng,Female,46,38387551,Nairobi,Embakasi East,Embakasi East,Embakasi,Embakasi Primary School,2013,Mechanic,Active
+Muriithi Muriithi,Male,49,47296980,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2022,Driver,Active
+Ngugi Gacheru,Male,48,42659965,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2022,Mechanic,Active
+Akinyi Muriithi,Female,57,20388239,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2017,Farmer,Active
+Ngugi Mwangi,Male,43,22743830,Eldoret,Turbo,Turbo,Lemook,Lemook Primary School,2027,Engineer,Active
+Zawadi Mwangi,Female,85,29911725,Kisumu,Kisumu Central,Kisumu Central,Shaurimoyo,Shaurimoyo Primary School,2027,Teacher,Active
+Nyambura Thuo,Female,38,24609659,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2022,Student,Active
+Halima Ochieng,Female,40,13924747,Meru,Imenti North,Imenti North,Nyaki East,Nyaki East Primary School,2017,Clerk,Active
+Kiptoo Otieno,Male,58,48868131,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2027,Casual Worker,Active
+Kinyanjui Ngugi,Male,62,46386104,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2027,Trader,Active
+Ahmed Bosibori,Male,49,14090793,Nairobi,Embakasi East,Embakasi East,Mihango,Mihango Primary School,2022,Engineer,Active
+Kamau Kariuki,Male,39,31045662,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2027,Accountant,Active
+Safia Kimani,Female,75,13836296,Eldoret,Turbo,Turbo,Eldoret East,Eldoret East Primary School,2013,Tailor,Active
+Hassan Salim,Male,39,13364995,Mombasa,Mvita,Mvita,Tononoka,Tononoka Primary School,2027,Trader,Active
+Ahmed Atieno,Male,73,49203494,Nairobi,Embakasi East,Embakasi East,Mihango,Mihango Primary School,2017,Teacher,Active
+Mwenda Salim,Male,30,41996735,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2013,Casual Worker,Active
+Wairimu Kariuki,Female,29,43745717,Meru,Imenti North,Imenti North,Nyaki West,Nyaki West Primary School,2017,Police Officer,Active
+Bosibori Kimani,Female,55,45643271,Nairobi,Westlands,Westlands,Mountain View,Mountain View Primary School,2027,Accountant,Active
+Rehema Atieno,Female,67,20565131,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2017,Shopkeeper,Active
+Gitahi Odhiambo,Male,51,13817123,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2017,Driver,Active
+Kariuki Njoroge,Male,47,44079793,Meru,Igembe South,Igembe South,Athiru Rujiine,Athiru Rujiine Primary School,2022,Tailor,Active
+Jelimo Omar,Female,68,15376189,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2027,Clerk,Active
+Waweru Bosibori,Male,42,22470502,Kisumu,Kisumu Central,Kisumu Central,Market Milimani,Market Milimani Primary School,2013,Student,Active
+Bosibori Ngugi,Female,29,14598388,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2017,Student,Active
+Rotich Otieno,Female,37,49932130,Machakos,Machakos Town,Machakos Town,Milimani,Milimani Primary School,2013,Casual Worker,Active
+Kariuki Kimani,Male,51,14560776,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2017,Accountant,Active
+Fatuma Ochieng,Female,69,25784266,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2013,Shopkeeper,Active
+Mwangi Atieno,Male,61,37096918,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2027,Driver,Active
+Nyambura Hassan,Female,59,18045454,Kisumu,Kisumu East,Kisumu East,Nyalenda A,Nyalenda A Primary School,2017,Student,Active
+Auma Bosibori,Male,84,48230269,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2027,Tailor,Active
+Njoroge Mwenda,Male,21,26523232,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2017,Shopkeeper,Active
+Njenga Odhiambo,Male,43,48850600,Eldoret,Turbo,Turbo,Lemook,Lemook Primary School,2017,Tailor,Active
+Wambui Mwangi,Female,75,49897505,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2017,Tailor,Active
+Zuhura Auma,Female,21,12667017,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2017,Trader,Active
+Ngugi Hassan,Male,83,15501813,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2013,Mechanic,Under Review
+Muriithi Waweru,Male,50,38133707,Kisumu,Kisumu Central,Kisumu Central,Market Milimani,Market Milimani Primary School,2022,Driver,Active
+Chebet Gacheru,Female,45,49169584,Meru,Igembe South,Igembe South,Athiru Gaiti,Athiru Gaiti Primary School,2022,Police Officer,Active
+Nyambura Otieno,Female,31,47931736,Meru,Igembe South,Igembe South,Athiru Gaiti,Athiru Gaiti Primary School,2022,Engineer,Under Review
+Nyaguthii Salim,Female,84,45083354,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2022,Shopkeeper,Active
+Halima Waweru,Female,55,31231220,Nairobi,Dagoretti North,Dagoretti North,Gitaru,Gitaru Primary School,2017,Student,Active
+Auma Thuo,Male,82,27499689,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2017,Trader,Active
+Kipkoech Kimani,Male,41,23707602,Eldoret,Turbo,Turbo,Lemook,Lemook Primary School,2027,Shopkeeper,Active
+Ngugi Muriithi,Male,60,31084522,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2017,Casual Worker,Active
+Muriithi Kariuki,Male,82,26017943,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2013,Police Officer,Active
+Mwanaidi Kariuki,Female,61,27825088,Kisumu,Kisumu Central,Kisumu Central,Market Milimani,Market Milimani Primary School,2022,Casual Worker,Active
+Wairimu Gitahi,Female,60,36560738,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2022,Trader,Active
+Kamau Bosibori,Male,38,18783092,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2022,Mechanic,Active
+Maina Moraa,Male,67,30132463,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2013,Self-employed,Active
+Wanjiku Gitahi,Female,49,40683821,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2017,Shopkeeper,Active
+Kariuki Gacheru,Male,23,31218292,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2017,Driver,Active
+Chebet Waweru,Female,42,14868286,Meru,Igembe South,Igembe South,Athiru Gaiti,Athiru Gaiti Primary School,2017,Shopkeeper,Active
+Akinyi Hassan,Female,20,10625149,Nakuru,Nakuru Town East,Nakuru Town East,Kivumbini,Kivumbini Primary School,2022,Trader,Active
+Rashid Salim,Male,31,40755020,Nairobi,Dagoretti North,Dagoretti North,Riruta,Riruta Primary School,2022,Farmer,Active
+Mwenda Bosibori,Male,50,47781863,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2022,Trader,Active
+Barasa Kiptoo,Male,35,16709628,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2022,Shopkeeper,Active
+Kipkoech Omondi,Male,43,14916443,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2022,Tailor,Active
+Omar Kiptoo,Male,81,46080034,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2027,Clerk,Active
+Gathoni Otieno,Female,32,24304543,Nairobi,Dagoretti North,Dagoretti North,Riruta,Riruta Primary School,2027,Police Officer,Active
+Gacheru Mutua,Male,76,43949347,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2027,Driver,Active
+Kariuki Ochieng,Male,58,27797298,Nairobi,Embakasi East,Embakasi East,Upper Savanna,Upper Savanna Primary School,2022,Teacher,Active
+Kamau Waweru,Male,74,18889009,Kisumu,Kisumu East,Kisumu East,Manyatta B,Manyatta B Primary School,2027,Driver,Active
+Salim Thuo,Male,69,33421586,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2027,Driver,Active
+Mwanaidi Auma,Female,38,14616506,Mombasa,Mvita,Mvita,Mji wa Kale,Mji wa Kale Primary School,2013,Shopkeeper,Active
+Moraa Gacheru,Female,79,26393649,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2027,Teacher,Active
+Fatuma Mutua,Female,85,34798543,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2022,Casual Worker,Active
+Ahmed Kimani,Male,62,29125180,Machakos,Machakos Town,Machakos Town,Milimani,Milimani Primary School,2022,Police Officer,Active
+Kamau Auma,Male,27,20586210,Eldoret,Kapseret,Kapseret,Megun,Megun Primary School,2022,Engineer,Active
+Zawadi Jelimo,Female,48,39406068,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2013,Accountant,Active
+Adhiambo Akinyi,Female,81,46454740,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2022,Farmer,Active
+Fatuma Otieno,Female,44,30301581,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2022,Accountant,Inactive
+Zawadi Hassan,Female,78,45496609,Eldoret,Kapseret,Kapseret,Langas,Langas Primary School,2022,Engineer,Active
+Kariuki Hassan,Male,55,10524999,Nairobi,Embakasi East,Embakasi East,Upper Savanna,Upper Savanna Primary School,2022,Engineer,Active
+Kimani Akinyi,Male,50,47218729,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2022,Nurse,Active
+Kwamboka Adhiambo,Female,71,30090967,Nakuru,Rongai,Rongai,Soin,Soin Primary School,2013,Police Officer,Active
+Gitahi Adhiambo,Male,85,16951572,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2022,Self-employed,Inactive
+Moraa Ochieng,Female,59,19012124,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2022,Student,Active
+Cheruiyot Ruto,Male,35,27748007,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2013,Casual Worker,Active
+Halima Cheruiyot,Female,55,17746286,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2022,Shopkeeper,Active
+Gacheru Gitahi,Male,79,17183062,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2022,Police Officer,Active
+Chebet Otieno,Female,36,47126210,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2013,Farmer,Active
+Kipkoech Salim,Male,44,20431932,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2022,Farmer,Active
+Nyambura Hassan,Female,54,28276979,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2022,Farmer,Active
+Mwanaidi Gitahi,Female,43,28908343,Nairobi,Westlands,Westlands,Westlands,Westlands Primary School,2022,Mechanic,Active
+Mumbi Kinyanjui,Female,75,24135116,Nakuru,Nakuru Town East,Nakuru Town East,Flamingo,Flamingo Primary School,2017,Police Officer,Active
+Gacheru Omondi,Male,53,33010306,Machakos,Machakos Town,Machakos Town,Milimani,Milimani Primary School,2022,Trader,Active
+Wanjiku Thuo,Female,37,23663184,Eldoret,Turbo,Turbo,Turbo,Turbo Primary School,2027,Casual Worker,Active
+Chepkoech Muriithi,Female,46,27715659,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2027,Self-employed,Active
+Mwenda Ruto,Male,45,43917427,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2022,Engineer,Active
+Muriithi Otieno,Male,48,42784817,Mombasa,Likoni,Likoni,Likoni,Likoni Primary School,2027,Casual Worker,Active
+Otieno Gitahi,Male,50,26852461,Machakos,Machakos Town,Machakos Town,Milimani,Milimani Primary School,2022,Driver,Active
+Jepchirchir Akinyi,Female,59,13409056,Nairobi,Embakasi East,Embakasi East,Mihango,Mihango Primary School,2022,Teacher,Active
+Njoroge Cheruiyot,Male,44,16194045,Nakuru,Rongai,Rongai,Soin,Soin Primary School,2022,Clerk,Active
+Atieno Ngugi,Female,22,38425688,Nairobi,Embakasi East,Embakasi East,Upper Savanna,Upper Savanna Primary School,2013,Farmer,Active
+Atieno Hassan,Female,75,28567695,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2022,Student,Active
+Wambui Otieno,Female,63,12958612,Mombasa,Mvita,Mvita,Mji wa Kale,Mji wa Kale Primary School,2027,Teacher,Active
+Adhiambo Njenga,Female,21,10237947,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2022,Self-employed,Active
+Wangari Ngugi,Female,36,32384600,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2013,Farmer,Active
+Adhiambo Mwenda,Female,70,18779158,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2027,Tailor,Active
+Kiptoo Hassan,Male,41,27579520,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2022,Casual Worker,Active
+Atieno Njenga,Female,43,20843582,Mombasa,Likoni,Likoni,Mtongwe,Mtongwe Primary School,2022,Accountant,Inactive
+Njeri Omar,Female,26,39651079,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2027,Engineer,Active
+Muthoni Ngugi,Female,39,47022646,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2013,Nurse,Active
+Nyaguthii Kinyanjui,Female,77,38701583,Kisumu,Kisumu East,Kisumu East,Nyalenda A,Nyalenda A Primary School,2022,Mechanic,Active
+Kiptoo Njoroge,Male,43,47641822,Kiambu,Thika Town,Thika Town,Ngoliba,Ngoliba Primary School,2017,Shopkeeper,Active
+Kipchoge Jelimo,Male,69,10648922,Nairobi,Dagoretti North,Dagoretti North,Kabiro,Kabiro Primary School,2022,Nurse,Active
+Jelimo Ngugi,Female,55,17507729,Meru,Igembe South,Igembe South,Nyambene Hills,Nyambene Hills Primary School,2013,Self-employed,Active
+Khadija Jelimo,Female,39,15049529,Nairobi,Dagoretti North,Dagoretti North,Uthiru,Uthiru Primary School,2022,Trader,Active
+Ochieng Atieno,Male,80,20002863,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2017,Driver,Active
+Odhiambo Kinyanjui,Male,23,46613944,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2013,Police Officer,Active
+Waceera Ochieng,Female,27,12417807,Machakos,Mavoko,Mavoko,Athi River,Athi River Primary School,2022,Student,Under Review
+Hamisi Muriithi,Male,18,34777665,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2022,Trader,Active
+Njoroge Jelimo,Male,41,49091555,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2017,Casual Worker,Active
+Ngugi Kiptoo,Male,79,47079331,Meru,Imenti North,Imenti North,Nyaki West,Nyaki West Primary School,2022,Casual Worker,Active
+Akinyi Omar,Female,38,19938405,Nairobi,Westlands,Westlands,Kitisuru,Kitisuru Primary School,2013,Self-employed,Active
+Mwangi Auma,Male,69,38842498,Kiambu,Thika Town,Thika Town,Ngoliba,Ngoliba Primary School,2022,Casual Worker,Active
+Adhiambo Cheruiyot,Female,39,18552724,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2017,Student,Active
+Gacheru Salim,Male,26,12807087,Kisumu,Kisumu East,Kisumu East,Nyalenda A,Nyalenda A Primary School,2017,Student,Active
+Auma Jelimo,Male,30,30686867,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2017,Shopkeeper,Active
+Gacheru Omondi,Male,18,34471348,Mombasa,Likoni,Likoni,Shika Adabu,Shika Adabu Primary School,2027,Mechanic,Active
+Mwanaidi Kinyanjui,Female,72,12677299,Nairobi,Dagoretti North,Dagoretti North,Kabiro,Kabiro Primary School,2017,Mechanic,Active
+Zuhura Kimani,Female,79,34012171,Machakos,Machakos Town,Machakos Town,Mua,Mua Primary School,2022,Shopkeeper,Active
+Mwanaidi Salim,Female,84,24097997,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2013,Farmer,Active
+Hassan Kiptoo,Male,72,26745657,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2022,Driver,Active
+Khadija Barasa,Female,79,16898363,Machakos,Machakos Town,Machakos Town,Milimani,Milimani Primary School,2017,Self-employed,Active
+Muthoni Muriithi,Female,47,33734971,Machakos,Machakos Town,Machakos Town,Mutituni,Mutituni Primary School,2022,Clerk,Inactive
+Odhiambo Jelimo,Male,24,47573146,Machakos,Mavoko,Mavoko,Muthwani,Muthwani Primary School,2017,Police Officer,Active
+Ochieng Atieno,Male,51,37271524,Machakos,Machakos Town,Machakos Town,Mutituni,Mutituni Primary School,2017,Teacher,Active
+Rehema Njenga,Female,74,20371898,Nairobi,Westlands,Westlands,Parklands,Parklands Primary School,2013,Tailor,Active
+Bosibori Odhiambo,Female,64,25887173,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2017,Farmer,Under Review
+Cheruiyot Ruto,Male,43,20905308,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2022,Clerk,Active
+Kipkoech Muriithi,Male,42,21881783,Meru,Igembe South,Igembe South,Nyambene Hills,Nyambene Hills Primary School,2022,Student,Active
+Moraa Kiptoo,Female,55,37668609,Mombasa,Mvita,Mvita,Ganjoni,Ganjoni Primary School,2017,Teacher,Active
+Waceera Bosibori,Female,61,11663384,Machakos,Mavoko,Mavoko,Mlolongo,Mlolongo Primary School,2027,Accountant,Active
+Muriithi Omondi,Male,46,22036690,Kiambu,Thika Town,Thika Town,Gatuanyaga,Gatuanyaga Primary School,2022,Nurse,Active
+Zuhura Otieno,Female,29,32292589,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2017,Clerk,Active
+Kiptoo Atieno,Male,52,37629602,Meru,Igembe South,Igembe South,Nyambene Hills,Nyambene Hills Primary School,2017,Clerk,Active
+Kinyanjui Koech,Male,44,26654221,Nakuru,Nakuru Town East,Nakuru Town East,Flamingo,Flamingo Primary School,2017,Tailor,Active
+Wairimu Kimani,Female,18,27905028,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2022,Self-employed,Inactive
+Khadija Gitahi,Female,41,20683586,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2027,Shopkeeper,Active
+Mumbi Waweru,Female,79,17254174,Nairobi,Dagoretti North,Dagoretti North,Gitaru,Gitaru Primary School,2027,Farmer,Active
+Moraa Adhiambo,Female,19,35671940,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2013,Nurse,Active
+Hassan Kinyanjui,Male,51,12598764,Kiambu,Thika Town,Thika Town,Ngoliba,Ngoliba Primary School,2017,Accountant,Inactive
+Khadija Ochieng,Female,71,41587472,Eldoret,Kapseret,Kapseret,Megun,Megun Primary School,2022,Engineer,Active
+Nyaguthii Bosibori,Female,47,24927274,Kisumu,Kisumu Central,Kisumu Central,Kondele,Kondele Primary School,2027,Clerk,Active
+Maina Gacheru,Male,78,23393105,Nakuru,Nakuru Town East,Nakuru Town East,Kivumbini,Kivumbini Primary School,2027,Trader,Active
+Hassan Akinyi,Male,24,40890427,Kiambu,Ruiru,Ruiru,Kahawa Wendani,Kahawa Wendani Primary School,2017,Clerk,Active
+Koech Atieno,Male,51,33465179,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2017,Self-employed,Active
+Zuhura Mwangi,Female,43,30481012,Machakos,Machakos Town,Machakos Town,Mua,Mua Primary School,2022,Police Officer,Active
+Kipkoech Muriithi,Male,28,25273674,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2017,Driver,Active
+Kimani Thuo,Male,28,24960146,Machakos,Mavoko,Mavoko,Syokimau,Syokimau Primary School,2017,Nurse,Active
+Nyaguthii Ruto,Female,84,11588093,Kiambu,Ruiru,Ruiru,Gatongora,Gatongora Primary School,2027,Student,Active
+Mutua Omar,Male,39,22960720,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2017,Teacher,Active
+Zawadi Mwangi,Female,51,36740599,Machakos,Machakos Town,Machakos Town,Mutituni,Mutituni Primary School,2022,Teacher,Active
+Muthoni Hassan,Female,34,32029286,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2013,Tailor,Active
+Omar Gitahi,Male,52,28696734,Eldoret,Kapseret,Kapseret,Langas,Langas Primary School,2022,Trader,Under Review
+Thuo Moraa,Male,47,14658747,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2027,Accountant,Active
+Waceera Ngugi,Female,84,28731761,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2027,Tailor,Active
+Jelimo Otieno,Female,19,33565017,Eldoret,Kapseret,Kapseret,Kipkenyo,Kipkenyo Primary School,2022,Mechanic,Active
+Kamau Kinyanjui,Male,73,44185636,Nakuru,Rongai,Rongai,Solai,Solai Primary School,2017,Trader,Active
+Safia Hassan,Female,48,36821962,Kiambu,Thika Town,Thika Town,Gatuanyaga,Gatuanyaga Primary School,2022,Mechanic,Active
+Wangari Barasa,Female,41,45984828,Machakos,Machakos Town,Machakos Town,Mutituni,Mutituni Primary School,2013,Teacher,Active
+Nyaguthii Akinyi,Female,37,32223091,Nakuru,Rongai,Rongai,Soin,Soin Primary School,2013,Self-employed,Active
+Kipkoech Barasa,Male,47,11852240,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2013,Farmer,Active
+Mwanaidi Mwenda,Female,22,17740453,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2017,Tailor,Active
+Mwangi Barasa,Male,78,27529855,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2017,Shopkeeper,Active
+Wanjiku Omondi,Female,49,21983483,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2022,Farmer,Active
+Odhiambo Atieno,Male,38,48962717,Machakos,Mavoko,Mavoko,Athi River,Athi River Primary School,2022,Farmer,Active
+Koech Atieno,Male,24,27815146,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2027,Nurse,Under Review
+Maina Gitahi,Male,33,12567397,Nairobi,Westlands,Westlands,Westlands,Westlands Primary School,2017,Nurse,Active
+Muriithi Ngugi,Male,38,17274771,Meru,Imenti North,Imenti North,Ntima East,Ntima East Primary School,2022,Police Officer,Active
+Mwangi Muriithi,Male,80,39163080,Kisumu,Kisumu Central,Kisumu Central,Market Milimani,Market Milimani Primary School,2017,Self-employed,Active
+Jepchirchir Koech,Female,63,33198669,Nairobi,Dagoretti North,Dagoretti North,Gitaru,Gitaru Primary School,2022,Driver,Active
+Jepchirchir Njenga,Female,41,31050528,Eldoret,Turbo,Turbo,Ngenyilel,Ngenyilel Primary School,2022,Engineer,Active
+Kemunto Mutua,Female,51,39285897,Kisumu,Kisumu East,Kisumu East,Manyatta B,Manyatta B Primary School,2022,Accountant,Active
+Moraa Mwangi,Female,26,44321020,Meru,Imenti North,Imenti North,Ntima West,Ntima West Primary School,2022,Self-employed,Active
+Kinyanjui Ngugi,Male,59,17760857,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2013,Self-employed,Active
+Mutua Ochieng,Male,80,35850027,Nairobi,Westlands,Westlands,Kangemi,Kangemi Primary School,2017,Farmer,Active
+Chepkoech Salim,Female,27,48694168,Nairobi,Embakasi East,Embakasi East,Mihango,Mihango Primary School,2013,Shopkeeper,Active
+Adhiambo Adhiambo,Female,71,22755970,Nairobi,Embakasi East,Embakasi East,Embakasi,Embakasi Primary School,2027,Mechanic,Active
+Fatuma Mutua,Female,84,27094138,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2013,Clerk,Active
+Bosibori Koech,Female,71,12978729,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2022,Mechanic,Active
+Rotich Moraa,Female,69,39263324,Mombasa,Mvita,Mvita,Tudor,Tudor Primary School,2022,Police Officer,Active
+Zuhura Gitahi,Female,73,10113499,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2027,Engineer,Active
+Rashid Salim,Male,68,44891263,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2013,Farmer,Under Review
+Mutua Mwenda,Male,45,46134901,Nairobi,Embakasi East,Embakasi East,Mihango,Mihango Primary School,2027,Farmer,Active
+Wairimu Kimani,Female,37,23222803,Nairobi,Embakasi East,Embakasi East,Upper Savanna,Upper Savanna Primary School,2013,Engineer,Active
+Ngugi Salim,Male,69,34442489,Kiambu,Thika Town,Thika Town,Ngoliba,Ngoliba Primary School,2022,Nurse,Active
+Jelimo Ochieng,Female,56,38943878,Eldoret,Turbo,Turbo,Ngenyilel,Ngenyilel Primary School,2013,Mechanic,Active
+Mwangi Thuo,Male,33,14695862,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2027,Nurse,Active
+Rashid Kariuki,Male,37,32159349,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2017,Clerk,Active
+Hamisi Bosibori,Male,55,31066522,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2022,Trader,Active
+Muriithi Kariuki,Male,69,18363463,Machakos,Mavoko,Mavoko,Syokimau,Syokimau Primary School,2022,Mechanic,Active
+Muriithi Koech,Male,43,30154286,Eldoret,Kapseret,Kapseret,Langas,Langas Primary School,2022,Clerk,Active
+Njoroge Barasa,Male,29,44032415,Machakos,Mavoko,Mavoko,Muthwani,Muthwani Primary School,2013,Student,Active
+Bosibori Gitahi,Female,39,30755742,Meru,Imenti North,Imenti North,Ntima West,Ntima West Primary School,2027,Casual Worker,Active
+Wairimu Bosibori,Female,65,37406784,Nairobi,Westlands,Westlands,Mountain View,Mountain View Primary School,2017,Clerk,Active
+Mwangi Omar,Male,61,31889764,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2022,Teacher,Active
+Akinyi Thuo,Female,84,37004632,Nakuru,Nakuru Town East,Nakuru Town East,Kivumbini,Kivumbini Primary School,2022,Self-employed,Active
+Kipchoge Gacheru,Male,25,29841084,Nairobi,Embakasi East,Embakasi East,Mihango,Mihango Primary School,2017,Mechanic,Active
+Zawadi Adhiambo,Female,52,47205991,Nairobi,Westlands,Westlands,Parklands,Parklands Primary School,2022,Shopkeeper,Active
+Kipchoge Njenga,Male,83,18542139,Machakos,Machakos Town,Machakos Town,Milimani,Milimani Primary School,2027,Teacher,Active
+Adhiambo Ochieng,Female,20,22874170,Nakuru,Rongai,Rongai,Solai,Solai Primary School,2013,Shopkeeper,Active
+Chepkoech Ruto,Female,63,38215675,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2017,Driver,Active
+Zawadi Salim,Female,53,35444008,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2017,Engineer,Active
+Omondi Gacheru,Male,37,21678777,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2022,Driver,Active
+Jepchirchir Waweru,Female,43,48192007,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2027,Driver,Active
+Maina Ngugi,Male,33,30196404,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2017,Tailor,Active
+Hassan Kiptoo,Male,53,37251243,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2017,Nurse,Active
+Kipchoge Barasa,Male,21,46771443,Nakuru,Nakuru Town East,Nakuru Town East,Kivumbini,Kivumbini Primary School,2017,Clerk,Active
+Gacheru Atieno,Male,80,10027242,Meru,Imenti North,Imenti North,Nyaki West,Nyaki West Primary School,2022,Trader,Active
+Mwenda Otieno,Male,43,30392702,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2022,Teacher,Active
+Chepkoech Gitahi,Female,69,29254453,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2022,Casual Worker,Active
+Halima Ruto,Female,75,24105121,Nairobi,Dagoretti North,Dagoretti North,Riruta,Riruta Primary School,2022,Shopkeeper,Active
+Hamisi Odhiambo,Male,55,38849305,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2022,Shopkeeper,Active
+Rotich Auma,Female,24,48922119,Machakos,Mavoko,Mavoko,Muthwani,Muthwani Primary School,2022,Shopkeeper,Active
+Adhiambo Jelimo,Female,35,31625779,Mombasa,Mvita,Mvita,Ganjoni,Ganjoni Primary School,2017,Engineer,Active
+Thuo Koech,Male,59,41204829,Eldoret,Turbo,Turbo,Lemook,Lemook Primary School,2022,Shopkeeper,Active
+Waweru Njoroge,Male,28,39647757,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2022,Student,Active
+Rashid Gacheru,Male,37,39672841,Nairobi,Westlands,Westlands,Westlands,Westlands Primary School,2017,Trader,Active
+Mwenda Mwenda,Male,41,24341258,Kiambu,Ruiru,Ruiru,Gatongora,Gatongora Primary School,2013,Trader,Inactive
+Koech Otieno,Male,18,44304306,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2022,Accountant,Active
+Rotich Kiptoo,Female,18,41754987,Eldoret,Turbo,Turbo,Ngenyilel,Ngenyilel Primary School,2017,Self-employed,Active
+Mwangi Ochieng,Male,22,21387796,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2013,Farmer,Active
+Amina Njoroge,Female,40,15690532,Nairobi,Westlands,Westlands,Parklands,Parklands Primary School,2017,Driver,Active
+Thuo Kinyanjui,Male,59,29044583,Nairobi,Westlands,Westlands,Westlands,Westlands Primary School,2017,Student,Active
+Atieno Njenga,Female,53,44591398,Eldoret,Turbo,Turbo,Turbo,Turbo Primary School,2017,Student,Active
+Mwangi Kimani,Male,54,32494103,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2022,Tailor,Active
+Njeri Akinyi,Female,47,16267108,Eldoret,Kapseret,Kapseret,Megun,Megun Primary School,2022,Nurse,Active
+Thuo Omondi,Male,23,25761764,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2017,Self-employed,Active
+Kamau Koech,Male,57,30831897,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2017,Self-employed,Active
+Waweru Thuo,Male,21,25075379,Meru,Igembe South,Igembe South,Athiru Rujiine,Athiru Rujiine Primary School,2027,Nurse,Active
+Jelimo Atieno,Female,79,23363383,Nairobi,Dagoretti North,Dagoretti North,Uthiru,Uthiru Primary School,2017,Accountant,Active
+Rotich Kiptoo,Female,58,19888757,Nairobi,Dagoretti North,Dagoretti North,Ruthimitu,Ruthimitu Primary School,2022,Farmer,Active
+Zuhura Mutua,Female,61,11639160,Kisumu,Kisumu East,Kisumu East,Kajulu,Kajulu Primary School,2027,Police Officer,Active
+Rashid Ochieng,Male,22,13101350,Mombasa,Likoni,Likoni,Bofu,Bofu Primary School,2017,Teacher,Active
+Salim Bosibori,Male,56,26431104,Kiambu,Thika Town,Thika Town,Ngoliba,Ngoliba Primary School,2017,Engineer,Active
+Omondi Bosibori,Male,37,41885860,Nairobi,Embakasi East,Embakasi East,Embakasi,Embakasi Primary School,2017,Shopkeeper,Active
+Halima Ngugi,Female,22,14887419,Mombasa,Mvita,Mvita,Tudor,Tudor Primary School,2022,Clerk,Active
+Kamau Mwenda,Male,29,40562461,Nairobi,Dagoretti North,Dagoretti North,Kabiro,Kabiro Primary School,2017,Shopkeeper,Active
+Akinyi Mwenda,Female,42,37812665,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2017,Self-employed,Active
+Wambui Barasa,Female,32,48632620,Kisumu,Kisumu Central,Kisumu Central,Railways,Railways Primary School,2013,Casual Worker,Active
+Odhiambo Muriithi,Male,54,23048327,Meru,Igembe South,Igembe South,Nyambene Hills,Nyambene Hills Primary School,2022,Trader,Active
+Jepchirchir Kariuki,Female,24,35768358,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2013,Farmer,Active
+Moraa Bosibori,Female,43,43177090,Meru,Igembe South,Igembe South,Athiru Gaiti,Athiru Gaiti Primary School,2022,Police Officer,Active
+Thuo Waweru,Male,76,36820249,Mombasa,Likoni,Likoni,Mtongwe,Mtongwe Primary School,2017,Police Officer,Active
+Jelimo Hassan,Female,51,26373518,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2027,Student,Active
+Halima Adhiambo,Female,78,19903345,Eldoret,Turbo,Turbo,Turbo,Turbo Primary School,2013,Accountant,Active
+Kipkoech Muriithi,Male,31,10372106,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2017,Police Officer,Active
+Rotich Ruto,Female,49,17152952,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2022,Accountant,Active
+Kwamboka Moraa,Female,48,38531078,Machakos,Mavoko,Mavoko,Muthwani,Muthwani Primary School,2017,Police Officer,Active
+Wambui Adhiambo,Female,40,24686180,Meru,Imenti North,Imenti North,Nyaki West,Nyaki West Primary School,2017,Student,Active
+Rashid Gitahi,Male,45,21803555,Eldoret,Turbo,Turbo,Turbo,Turbo Primary School,2027,Shopkeeper,Active
+Ochieng Ngugi,Male,75,44759556,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2017,Police Officer,Active
+Muthoni Moraa,Female,19,41175415,Meru,Imenti North,Imenti North,Nyaki East,Nyaki East Primary School,2022,Self-employed,Active
+Kipkoech Kariuki,Male,63,13370098,Meru,Imenti North,Imenti North,Municipality,Municipality Primary School,2013,Driver,Active
+Maina Ruto,Male,66,47406869,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2022,Nurse,Active
+Njeri Koech,Female,37,26723413,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2017,Tailor,Active
+Kamau Mutua,Male,73,18144237,Nairobi,Westlands,Westlands,Parklands,Parklands Primary School,2027,Trader,Active
+Rotich Moraa,Female,72,40632634,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2022,Accountant,Active
+Kiptoo Moraa,Male,48,18948235,Nairobi,Dagoretti North,Dagoretti North,Gitaru,Gitaru Primary School,2022,Driver,Active
+Fatuma Odhiambo,Female,79,41181679,Eldoret,Kapseret,Kapseret,Simat,Simat Primary School,2027,Teacher,Active
+Rotich Njoroge,Female,27,45643657,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2022,Self-employed,Active
+Zawadi Thuo,Female,83,47508841,Nairobi,Embakasi East,Embakasi East,Lower Savanna,Lower Savanna Primary School,2027,Casual Worker,Active
+Zuhura Njenga,Female,56,49960128,Kiambu,Thika Town,Thika Town,Township,Township Primary School,2022,Casual Worker,Active
+Kemunto Kariuki,Female,80,31293505,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2013,Self-employed,Active
+Waceera Waweru,Female,19,39700599,Kiambu,Ruiru,Ruiru,Gatongora,Gatongora Primary School,2022,Casual Worker,Active
+Gitahi Kinyanjui,Male,80,43875089,Kisumu,Kisumu East,Kisumu East,Kolwa East,Kolwa East Primary School,2017,Self-employed,Active
+Adhiambo Ngugi,Female,67,38638087,Kisumu,Kisumu East,Kisumu East,Nyalenda A,Nyalenda A Primary School,2017,Accountant,Active
+Odhiambo Muriithi,Male,32,46767064,Nairobi,Dagoretti North,Dagoretti North,Ruthimitu,Ruthimitu Primary School,2013,Accountant,Active
+Jelimo Hassan,Female,51,39924755,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2013,Tailor,Active
+Jepchirchir Gacheru,Female,63,20680906,Meru,Imenti North,Imenti North,Municipality,Municipality Primary School,2027,Student,Active
+Amina Barasa,Female,68,41854862,Kiambu,Thika Town,Thika Town,Hospital,Hospital Primary School,2022,Police Officer,Active
+Ahmed Ochieng,Male,26,40203670,Meru,Imenti North,Imenti North,Municipality,Municipality Primary School,2013,Teacher,Active
+Zuhura Hassan,Female,22,27394050,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2013,Teacher,Active
+Waweru Omondi,Male,41,26591977,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2027,Clerk,Active
+Rotich Mutua,Female,59,28610049,Eldoret,Kapseret,Kapseret,Ngeria,Ngeria Primary School,2017,Mechanic,Active
+Rashid Gacheru,Male,51,44983838,Meru,Imenti North,Imenti North,Ntima West,Ntima West Primary School,2017,Teacher,Active
+Hamisi Ochieng,Male,73,42520755,Eldoret,Turbo,Turbo,Eldoret East,Eldoret East Primary School,2017,Police Officer,Active
+Waceera Kimani,Female,50,26055518,Nairobi,Westlands,Westlands,Kangemi,Kangemi Primary School,2022,Farmer,Active
+Kamau Odhiambo,Male,60,28427922,Machakos,Mavoko,Mavoko,Mlolongo,Mlolongo Primary School,2027,Casual Worker,Active
+Jelimo Moraa,Female,46,39519350,Machakos,Machakos Town,Machakos Town,Kalama,Kalama Primary School,2013,Clerk,Active
+Wambui Muriithi,Female,25,15199819,Meru,Igembe South,Igembe South,Igembe East,Igembe East Primary School,2022,Police Officer,Active
+Adhiambo Adhiambo,Female,23,29174891,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2027,Police Officer,Active
+Nyambura Muriithi,Female,42,25736597,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2013,Nurse,Active
+Kinyanjui Gacheru,Male,75,28234492,Mombasa,Likoni,Likoni,Likoni,Likoni Primary School,2027,Farmer,Active
+Ahmed Odhiambo,Male,84,32538346,Machakos,Machakos Town,Machakos Town,Machakos Central,Machakos Central Primary School,2022,Police Officer,Active
+Ngugi Mutua,Male,80,31455345,Nairobi,Dagoretti North,Dagoretti North,Uthiru,Uthiru Primary School,2022,Accountant,Active
+Njenga Waweru,Male,57,46249002,Nairobi,Westlands,Westlands,Kangemi,Kangemi Primary School,2027,Teacher,Active
+Njoroge Kimani,Male,46,15407475,Mombasa,Likoni,Likoni,Timbwani,Timbwani Primary School,2013,Nurse,Active
+Halima Omondi,Female,23,19286126,Kisumu,Kisumu East,Kisumu East,Kolwa East,Kolwa East Primary School,2022,Engineer,Active
+Wairimu Kiptoo,Female,39,20122074,Kisumu,Kisumu East,Kisumu East,Nyalenda B,Nyalenda B Primary School,2022,Shopkeeper,Active
+Kariuki Gacheru,Male,28,25519695,Kisumu,Kisumu Central,Kisumu Central,Migosi,Migosi Primary School,2013,Trader,Active
+Mwanaidi Atieno,Female,52,35705063,Kisumu,Kisumu Central,Kisumu Central,Market Milimani,Market Milimani Primary School,2022,Student,Active
+Otieno Ochieng,Male,62,20254587,Eldoret,Turbo,Turbo,Lemook,Lemook Primary School,2022,Self-employed,Active
+Kariuki Kinyanjui,Male,53,24358134,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2013,Teacher,Active
+Chepkoech Ochieng,Female,64,14310325,Kisumu,Kisumu Central,Kisumu Central,Shaurimoyo,Shaurimoyo Primary School,2017,Student,Active
+Fatuma Kimani,Female,38,37841313,Nairobi,Dagoretti North,Dagoretti North,Uthiru,Uthiru Primary School,2022,Accountant,Active
+Njenga Bosibori,Male,59,37353530,Meru,Igembe South,Igembe South,Nyambene Hills,Nyambene Hills Primary School,2017,Teacher,Active
+Njenga Kiptoo,Male,27,32205074,Nakuru,Rongai,Rongai,Visoi,Visoi Primary School,2022,Accountant,Active
+Wairimu Cheruiyot,Female,65,46414017,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2013,Clerk,Active
+Nyaguthii Koech,Female,25,41267650,Meru,Imenti North,Imenti North,Municipality,Municipality Primary School,2017,Teacher,Active
+Mwanaidi Auma,Female,38,37902136,Meru,Imenti North,Imenti North,Ntima West,Ntima West Primary School,2022,Police Officer,Inactive
+Ngugi Njoroge,Male,78,14178581,Machakos,Mavoko,Mavoko,Mlolongo,Mlolongo Primary School,2027,Driver,Active
+Gathoni Omar,Female,46,23880420,Meru,Igembe South,Igembe South,Athiru Rujiine,Athiru Rujiine Primary School,2027,Casual Worker,Inactive
+Mwenda Odhiambo,Male,22,38195354,Nairobi,Embakasi East,Embakasi East,Embakasi,Embakasi Primary School,2022,Student,Active
+Gitahi Akinyi,Male,19,36137346,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2022,Student,Inactive
+Omar Njenga,Male,79,49196905,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2022,Trader,Active
+Thuo Adhiambo,Male,65,11310767,Kisumu,Kisumu East,Kisumu East,Kolwa East,Kolwa East Primary School,2022,Clerk,Active
+Rashid Thuo,Male,52,48633925,Nairobi,Embakasi East,Embakasi East,Lower Savanna,Lower Savanna Primary School,2022,Casual Worker,Active
+Omondi Thuo,Male,24,35526938,Nairobi,Dagoretti North,Dagoretti North,Ruthimitu,Ruthimitu Primary School,2013,Engineer,Active
+Salim Kinyanjui,Male,44,42009568,Kisumu,Kisumu Central,Kisumu Central,Kondele,Kondele Primary School,2013,Engineer,Active
+Muriithi Cheruiyot,Male,52,10395679,Nakuru,Rongai,Rongai,Menengai West,Menengai West Primary School,2022,Student,Active
+Salim Muriithi,Male,85,33606133,Eldoret,Kapseret,Kapseret,Langas,Langas Primary School,2027,Accountant,Active
+Jepchirchir Kinyanjui,Female,29,30039555,Mombasa,Mvita,Mvita,Shimanzi,Shimanzi Primary School,2013,Shopkeeper,Active
+Kariuki Auma,Male,81,36171560,Kiambu,Thika Town,Thika Town,Kamenu,Kamenu Primary School,2017,Nurse,Active
+Kipkoech Kiptoo,Male,71,38120042,Kisumu,Kisumu East,Kisumu East,Manyatta B,Manyatta B Primary School,2022,Police Officer,Active
+Njoroge Mwangi,Male,61,46119370,Nakuru,Rongai,Rongai,Mosop,Mosop Primary School,2022,Mechanic,Active
+Rotich Mwenda,Female,51,46650318,Kisumu,Kisumu East,Kisumu East,Kolwa East,Kolwa East Primary School,2017,Engineer,Under Review
+Ochieng Muriithi,Male,38,24800101,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2022,Driver,Active
+Ochieng Auma,Male,58,42764525,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2022,Accountant,Active
+Odhiambo Odhiambo,Male,65,24725136,Meru,Igembe South,Igembe South,Nyambene Hills,Nyambene Hills Primary School,2022,Trader,Active
+Kipchoge Ruto,Male,58,28316378,Eldoret,Turbo,Turbo,Ng'Arua,Ng'Arua Primary School,2017,Clerk,Active
+Wangari Atieno,Female,74,39248457,Kiambu,Thika Town,Thika Town,Ngoliba,Ngoliba Primary School,2017,Teacher,Active
+Mutua Omondi,Male,46,42590882,Kiambu,Thika Town,Thika Town,Gatuanyaga,Gatuanyaga Primary School,2022,Teacher,Active
+Ngugi Barasa,Male,75,11947822,Nakuru,Nakuru Town East,Nakuru Town East,Biashara,Biashara Primary School,2022,Teacher,Under Review
+Bosibori Akinyi,Female,68,36095765,Meru,Imenti North,Imenti North,Ntima West,Ntima West Primary School,2013,Tailor,Active
+Khadija Otieno,Female,57,32557271,Kiambu,Ruiru,Ruiru,Gatongora,Gatongora Primary School,2027,Tailor,Active
+Gitahi Kiptoo,Male,72,37133232,Eldoret,Kapseret,Kapseret,Megun,Megun Primary School,2022,Student,Active
+Ochieng Cheruiyot,Male,60,21075964,Kiambu,Ruiru,Ruiru,Kahawa Wendani,Kahawa Wendani Primary School,2013,Casual Worker,Active
+Kamau Kiptoo,Male,77,41366021,Kiambu,Ruiru,Ruiru,Biashara,Biashara Primary School,2022,Mechanic,Active
+Kiptoo Gacheru,Male,56,18564956,Kiambu,Ruiru,Ruiru,Gitothua,Gitothua Primary School,2027,Driver,Active
+Mumbi Mwangi,Female,56,45844430,Nairobi,Westlands,Westlands,Westlands,Westlands Primary School,2027,Tailor,Active
+Kipkoech Kiptoo,Male,21,11809687,Kisumu,Kisumu East,Kisumu East,Kolwa East,Kolwa East Primary School,2013,Driver,Active
+Salim Atieno,Male,33,36442251,Machakos,Mavoko,Mavoko,Kinanie,Kinanie Primary School,2017,Clerk,Active
+Kemunto Kariuki,Female,35,49721251,Kisumu,Kisumu East,Kisumu East,Nyalenda A,Nyalenda A Primary School,2017,Farmer,Active
+Zuhura Kariuki,Female,27,47875704,Kiambu,Ruiru,Ruiru,Kahawa Wendani,Kahawa Wendani Primary School,2022,Mechanic,Active
+Kimani Gitahi,Male,64,11818787,Meru,Igembe South,Igembe South,Athiru Gaiti,Athiru Gaiti Primary School,2013,Casual Worker,Active
+Kamau Waweru,Male,70,15633618,Kiambu,Ruiru,Ruiru,Kahawa Sukari,Kahawa Sukari Primary School,2017,Shopkeeper,Active
+Ochieng Jelimo,Male,85,38763716,Nakuru,Nakuru Town East,Nakuru Town East,Nakuru East,Nakuru East Primary School,2027,Clerk,Active
+Mwenda Adhiambo,Male,20,19106638,Mombasa,Mvita,Mvita,Tudor,Tudor Primary School,2022,Driver,Active
